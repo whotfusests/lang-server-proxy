@@ -1,0 +1,9 @@
+{
+  "title": "Erlaubter Hosting-Proxy",
+  "allowed_text": "Nur Domains von:",
+  "url_label": "URL",
+  "dns_label": "DNS-Resolver",
+  "warning_text": "⚠️ TurkTelekom ist ein Unternehmen mit staatlicher Mehrheitsbeteiligung und ist dafür bekannt, Websites zu zensieren.",
+  "btn_text": "Abrufen",
+  "loading_text": "Einschränkungen werden umgangen und Inhalte gerendert..."
+}

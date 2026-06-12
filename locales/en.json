@@ -1,0 +1,9 @@
+{
+  "title": "Allowed Hosting Proxy",
+  "allowed_text": "Only domains from:",
+  "url_label": "URL",
+  "dns_label": "DNS Resolver",
+  "warning_text": "⚠️ TurkTelekom is a majority state-owned company and is known to censor websites.",
+  "btn_text": "Go Fetch",
+  "loading_text": "Bypassing restrictions and rendering content..."
+}

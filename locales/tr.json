@@ -1,0 +1,9 @@
+{
+  "title": "İzin Verilen Hosting Proxy",
+  "allowed_text": "Sadece şu domainler:",
+  "url_label": "URL Adresi",
+  "dns_label": "DNS Çözümleyici",
+  "warning_text": "⚠️ TurkTelekom, çoğunluk hissesi devlete ait bir şirkettir ve web sitelerini sansürlemesiyle bilinir.",
+  "btn_text": "Getir",
+  "loading_text": "Kısıtlamalar aşılıyor ve içerik yükleniyor..."
+}

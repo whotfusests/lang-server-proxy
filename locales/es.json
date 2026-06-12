@@ -1,0 +1,9 @@
+{
+  "title": "Proxy de Alojamiento Permitido",
+  "allowed_text": "Solo dominios de:",
+  "url_label": "URL",
+  "dns_label": "Resolutor DNS",
+  "warning_text": "⚠️ TurkTelekom es una empresa de propiedad mayoritariamente estatal y es conocida por censurar sitios web.",
+  "btn_text": "Ir a Buscar",
+  "loading_text": "Evadiendo restricciones y renderizando contenido..."
+}
