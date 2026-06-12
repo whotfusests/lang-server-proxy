@@ -1,0 +1,34 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "emoji": "🇬🇧/🇺🇸",
+      "file": "en.json"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "emoji": "🇹🇷",
+      "file": "tr.json"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "emoji": "🇪🇸/🇲🇽",
+      "file": "es.json"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "emoji": "🇩🇪/🇦🇹",
+      "file": "de.json"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "emoji": "🇷🇺/🇧🇾",
+      "file": "ru.json"
+    }
+  ]
+}
